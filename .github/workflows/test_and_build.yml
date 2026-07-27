@@ -12,7 +12,7 @@ permissions:
 
 jobs:
   test_and_build:
-    runs-on: windows-latest
+    runs-on: ubuntu-latest
     env:
       ACTIONS_ALLOW_USE_UNSECURE_NODE_VERSION: true
     

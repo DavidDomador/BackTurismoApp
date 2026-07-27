@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "6RtfUJbiPvI=",
+  "success": true,
+  "projectFilePath": "D:\\claude\\ArquitecturaAPP\\backend\\src\\PAR.Application\\PAR.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin_pc\\.nuget\\packages\\fluentvalidation\\11.11.0\\fluentvalidation.11.11.0.nupkg.sha512",
+    "C:\\Users\\Admin_pc\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.11.0\\fluentvalidation.dependencyinjectionextensions.11.11.0.nupkg.sha512",
+    "C:\\Users\\Admin_pc\\.nuget\\packages\\mediatr\\12.4.1\\mediatr.12.4.1.nupkg.sha512",
+    "C:\\Users\\Admin_pc\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\Admin_pc\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\10.0.5\\microsoft.extensions.dependencyinjection.abstractions.10.0.5.nupkg.sha512",
+    "C:\\Users\\Admin_pc\\.nuget\\packages\\questpdf\\2026.2.4\\questpdf.2026.2.4.nupkg.sha512"
+  ],
+  "logs": []
+}

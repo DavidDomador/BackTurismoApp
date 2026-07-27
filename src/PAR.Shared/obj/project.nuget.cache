@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "sWV+89W5xRE=",
+  "success": true,
+  "projectFilePath": "D:\\claude\\ArquitecturaAPP\\backend\\src\\PAR.Shared\\PAR.Shared.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin_pc\\.nuget\\packages\\questpdf\\2026.2.4\\questpdf.2026.2.4.nupkg.sha512"
+  ],
+  "logs": []
+}

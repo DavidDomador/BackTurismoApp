@@ -1,0 +1,23 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+  <ItemGroup>
+    <!-- JwtBearer y OpenApi ya forman parte del shared framework de .NET 10 Web SDK -->
+    <!-- AspNetCoreRateLimit eliminado: incompatible con .NET 10, se usa el rate limiter nativo -->
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="10.0.5" />
+    <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="10.0.5" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="10.0.5">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Scalar.AspNetCore" Version="2.10.1" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\PAR.Application\PAR.Application.csproj" />
+    <ProjectReference Include="..\PAR.Infrastructure\PAR.Infrastructure.csproj" />
+    <ProjectReference Include="..\PAR.Shared\PAR.Shared.csproj" />
+  </ItemGroup>
+</Project>

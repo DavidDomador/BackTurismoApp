@@ -43,4 +43,4 @@ jobs:
       uses: docker/build-push-action@v6
       with: 
         push: true
-        tags: ghcr.io/DavidDomador/BackTurismoApp:latest
+        tags: ghcr.io/daviddomador/backturismoapp:latest

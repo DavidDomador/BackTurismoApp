@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sWV+89W5xRE=",
+  "dgSpecHash": "4M+geLIYhKBtpHi1N4TtuOdq1Wgqv1le/MK8VJA0kczAgiBfZHrrYU8X8j+W8S6cguvyNmcri52yi/kcyhrzJA==",
   "success": true,
   "projectFilePath": "D:\\claude\\ArquitecturaAPP\\backend\\src\\PAR.Shared\\PAR.Shared.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\Admin_pc\\.nuget\\packages\\questpdf\\2026.2.4\\questpdf.2026.2.4.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }
